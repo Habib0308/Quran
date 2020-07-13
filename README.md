@@ -14,7 +14,7 @@ Quran is divided into 30 parts. All containing total of 114 chapters.
 ### I will highlight important summarised points from the Quran, for more details read Quran
 Starts from here:
 
-[Siparah 1]()
+[Siparah 1](https://github.com/Habib0308/Quran/blob/master/siparah%201/)
 
 
 
